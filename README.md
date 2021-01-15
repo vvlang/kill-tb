@@ -1,4 +1,4 @@
-![Image text](https://raw.githubusercontent.com/vvlang/kill-tb/main/img/IMG_6130.JPG?token=AKXVQLDI43Q3GGW7HBKGKGLAAECIQ)
+![Image vvlang](https://raw.githubusercontent.com/vvlang/kill-tb/main/img/IMG_6130.JPG?token=AKXVQLDI43Q3GGW7HBKGKGLAAECIQ)
 # 更新记录
 
 ## 202101015
