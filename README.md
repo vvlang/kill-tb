@@ -18,7 +18,7 @@
 
 以下为原作者的说明：
 
-# taobao_seckill
+# kill tb 
 淘宝、天猫半价抢购，抢电视、抢茅台，干死黄牛党
 ## 依赖
 ### 安装chrome浏览器，根据浏览器的版本找到对应的[chromedriver](http://npm.taobao.org/mirrors/chromedriver/)
